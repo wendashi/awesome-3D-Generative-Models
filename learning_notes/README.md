@@ -1,1 +1,0 @@
-record learning process
