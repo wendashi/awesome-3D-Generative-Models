@@ -4,18 +4,37 @@
 # awesome 3D Generative Models
 Similar to the 2D Generative Model (such as Stable Diffusion, Flux) that builds a bridge between text and images, the 3D Generative Model is a bridge between text/images and 3D data. But the pipeline of 3D creation is **way more complex** than 2D creation. 3D Generative models can be categorized into 3D objects and 3D scene generation (world model).
 
-<img width="2310" height="1170" alt="image" src="https://github.com/user-attachments/assets/c42a3721-6db0-4373-bdd9-ba81a69c68a7" />
 - Latest updated at May, 2026
-  
+
+## Contents
+- [Review](#section-review)
+- [Modeling - 3D Representation](#section-modeling-3d-representation)
+- [Modeling - VAE For Mesh Reconstruction](#section-modeling-vae-for-mesh-reconstruction)
+- [Modeling / Texture - Flow-matching DiT For Mesh Generation & Texture Generation](#section-modeling-texture-flow-matching-dit)
+- [Modeling - Re-topology / Artist Mesh Generation](#section-modeling-retopology-artist-mesh-generation)
+- [Modeling - UV unwrapping](#section-modeling-uv-unwrapping)
+- [Texture Generation](#section-texture-generation)
+- [Motion - Rigging / Articulation / Dynamics with Physical Property / Animation / Simulation](#section-motion-rigging-articulation-dynamics-animation-simulation)
+- [Acceleration For Mesh Generation](#section-acceleration-mesh-generation)
+- [Post-train of 3D base models](#section-post-train-3d-base-models)
+- [3D Scene Generation (World Models)](#section-3d-scene-generation-world-models)
+  - [Open source](#section-3d-scene-open-source)
+  - [Closed source](#section-3d-scene-closed-source)
+- [Common Metrics](#section-common-metrics)
+- [Benchmark](#section-benchmark)
+
+<img width="2310" height="1170" alt="image" src="https://github.com/user-attachments/assets/c42a3721-6db0-4373-bdd9-ba81a69c68a7" />
 
 [3D Animation Pipeline](https://www.meshy.ai/zh/blog/animation-pipeline): Modeling (Re-Topology / UV Unwrapping / Artist Mesh) → Texture (PBR) → Motion (Rigging & Skinning / Animation / Rendering / Lighting / Simulation)
 
 <img width="2180" height="1516" alt="image" src="https://github.com/user-attachments/assets/13326113-7a83-411b-a42b-9ab995b09bbd" />
 
+<a id="section-review"></a>
 ## Review
 1. [Feed-Forward-3D](https://fnzhan.com/projects/Feed-Forward-3D/)
 2. [Production-Ready 3D Survey](https://github.com/hitcslj/Awesome-AIGC-3D) 
 
+<a id="section-modeling-3d-representation"></a>
 ## Modeling - 3D Representation
 1. [VecSet (TOG 2023)](https://github.com/1zb/3DShape2VecSet), Used by Hunyuan3D2.1, TripoSG, Step1X-3D)
    <a href="https://github.com/1zb/3DShape2VecSet" title="GitHub Repo">
@@ -43,6 +62,7 @@ Similar to the 2D Generative Model (such as Stable Diffusion, Flux) that builds 
 8. [Faithful Contouring](https://github.com/Luo-Yihao/FaithC) (Nov, 2025 -> CVPR'26 Oral)
 9. [FACE: A Face-based Autoregressive Representation for High-Fidelity and Efficient Mesh Generation](https://arxiv.org/abs/2603.01515) (CVPR 2026)
 
+<a id="section-modeling-vae-for-mesh-reconstruction"></a>
 ## Modeling - VAE For Mesh Reconstruction
 1. [Sparc3D](https://github.com/lizhihao6/Sparc3D) (Jun, 2025)
    <a href="https://github.com/lizhihao6/Sparc3D" title="GitHub Repo">
@@ -60,7 +80,8 @@ Similar to the 2D Generative Model (such as Stable Diffusion, Flux) that builds 
      <img src="https://img.shields.io/github/stars/Seed3D/Dora.svg?style=social" alt="Stars">
    </a>
 
-## Modeling/Texture - Flow-matching DiT For Mesh Generation & Texture Generation
+<a id="section-modeling-texture-flow-matching-dit"></a>
+## Modeling / Texture - Flow-matching DiT For Mesh Generation & Texture Generation
 1. [Ultra3D](https://buaacyw.github.io/ultra3d/) (Jul, 2025)
 2. [Hunyuan3D-2.1](https://github.com/Tencent-Hunyuan/Hunyuan3D-2.1) (Jun, 2025)
    <a href="https://github.com/Tencent-Hunyuan/Hunyuan3D-2.1" title="GitHub Repo">
@@ -117,6 +138,7 @@ Similar to the 2D Generative Model (such as Stable Diffusion, Flux) that builds 
       <img src="https://img.shields.io/github/stars/TencentARC/Pixal3D.svg?style=social" alt="Stars">
     </a>
 
+<a id="section-modeling-retopology-artist-mesh-generation"></a>
 ## Modeling - Re-topology / Artist Mesh Generation
 1. [BPT](https://github.com/tencent-hunyuan/bpt) (CVPR' 25)
    <a href="https://github.com/Tencent-Hunyuan/bpt" title="GitHub Repo">
@@ -139,6 +161,7 @@ Similar to the 2D Generative Model (such as Stable Diffusion, Flux) that builds 
      <img src="https://img.shields.io/github/stars/Xrvitd/SATO.svg?style=social" alt="Stars">
    </a>
 
+<a id="section-modeling-uv-unwrapping"></a>
 ## Modeling - UV unwrapping
 1. [Auto-Regressive Surface Cutting](https://victorcheung12.github.io/seamgpt/) (Jun, 2025)
 2. [ArtUV: Artist-style UV Unwrapping](https://chenyg59.github.io/ArtUV/) (Sep, 2025)
@@ -148,7 +171,8 @@ Similar to the 2D Generative Model (such as Stable Diffusion, Flux) that builds 
 
 
 
-## Textrue Generation
+<a id="section-texture-generation"></a>
+## Texture Generation
 1. [SyncMVD](https://github.com/LIU-Yuxin/SyncMVD) (SIGGRAPH Asia'24)
    <a href="https://github.com/LIU-Yuxin/SyncMVD" title="GitHub Repo">
      <i class="fab fa-github"></i> 
@@ -188,7 +212,8 @@ Similar to the 2D Generative Model (such as Stable Diffusion, Flux) that builds 
 10. [LSRM: High-Fidelity Object-Centric Reconstruction via Scaled Context Windows](https://lzqsd.github.io/LSRM.github.io/)
 
    
-## Motion  - Rigging / Articulation / Dynamics with Physical Property / Animation / Simulation
+<a id="section-motion-rigging-articulation-dynamics-animation-simulation"></a>
+## Motion - Rigging / Articulation / Dynamics with Physical Property / Animation / Simulation
 1. [Unirig](https://github.com/VAST-AI-Research/UniRig) (SIGGRAPH'25)
    <a href="https://github.com/VAST-AI-Research/UniRig" title="GitHub Repo">
      <i class="fab fa-github"></i> 
@@ -230,7 +255,7 @@ Similar to the 2D Generative Model (such as Stable Diffusion, Flux) that builds 
 ) (ECCV 2024)
 11. [DSO: Aligning 3D Generators with Simulation Feedback for Physical Soundness](https://github.com/RuiningLi/dso?tab=readme-ov-file) (ICCV 2025)
 
-
+<a id="section-acceleration-mesh-generation"></a>
 ## Acceleration For Mesh Generation (lightning vecset decoder)
 1. [FlashVDM](https://github.com/Tencent-Hunyuan/FlashVDM) (ICCV' 25)
    <a href="https://github.com/Tencent-Hunyuan/FlashVDM" title="GitHub Repo">
@@ -238,6 +263,7 @@ Similar to the 2D Generative Model (such as Stable Diffusion, Flux) that builds 
      <img src="https://img.shields.io/github/stars/Tencent-Hunyuan/FlashVDM.svg?style=social" alt="Stars">
    </a>
 
+<a id="section-post-train-3d-base-models"></a>
 ## Post-train of 3D base models
 1. [DeepMesh: Auto-Regressive Artist-Mesh Creation With Reinforcement Learning](https://github.com/zhaorw02/DeepMesh) (ICCV 2025)
    <a href="https://github.com/zhaorw02/DeepMesh" title="GitHub Repo">
@@ -255,7 +281,10 @@ Similar to the 2D Generative Model (such as Stable Diffusion, Flux) that builds 
      <img src="https://img.shields.io/github/stars/ZhenglinZhou/DreamDPO.svg?style=social" alt="Stars">
    </a>
 
+<a id="section-3d-scene-generation-world-models"></a>
 ## 3D Scene Generation (World Models)
+
+<a id="section-3d-scene-open-source"></a>
 ### Open source
 1. https://github.com/Tencent-Hunyuan/HY-World-2.0
 2. https://inspatio.github.io/worldfm/
@@ -264,6 +293,7 @@ Similar to the 2D Generative Model (such as Stable Diffusion, Flux) that builds 
 5. https://fantasy-amap.github.io/fantasy-world/
 6. https://worldgen.github.io
 
+<a id="section-3d-scene-closed-source"></a>
 ### Closed source
 1. https://marble.worldlabs.ai/
 2. https://spaitial.ai/
@@ -272,6 +302,7 @@ Similar to the 2D Generative Model (such as Stable Diffusion, Flux) that builds 
 5. https://runwayml.com/
 6. https://moonlakeai.com/
 
+<a id="section-common-metrics"></a>
 ## Common Metrics
 For mesh
 1. ULIP-T(⬆), ULIP-I(⬆), [ULIP](https://github.com/salesforce/ULIP)
@@ -293,6 +324,7 @@ For texture
 3. CLIP-I(⬆)
 4. LPIPS(⬇)
 
+<a id="section-benchmark"></a>
 ## Benchmark
 1. [HY3D-Bench](https://github.com/Tencent-Hunyuan/HY3D-Bench) <a href="https://github.com/Tencent-Hunyuan/HY3D-Bench" title="GitHub Repo">
      <i class="fab fa-github"></i> 
