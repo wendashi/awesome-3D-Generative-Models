@@ -140,6 +140,11 @@ Similar to the 2D Generative Model (such as Stable Diffusion, Flux) that builds 
       <i class="fab fa-github"></i>
       <img src="https://img.shields.io/github/stars/heheyas/MeshGen.svg?style=social" alt="Stars">
     </a>
+14. [LATO.2: Factorized 3D Mesh Generation with Vertex and Topology Flow](https://github.com/LoHhhha/LATO.2) (Jul, 2026, Meshy AI)
+    <a href="https://github.com/LoHhhha/LATO.2" title="GitHub Repo">
+      <i class="fab fa-github"></i>
+      <img src="https://img.shields.io/github/stars/LoHhhha/LATO.2.svg?style=social" alt="Stars">
+    </a>
 
 <a id="section-modeling-retopology-artist-mesh-generation"></a>
 ## Modeling - Re-topology / Artist Mesh Generation
