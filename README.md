@@ -135,6 +135,11 @@ Similar to the 2D Generative Model (such as Stable Diffusion, Flux) that builds 
       <i class="fab fa-github"></i>
       <img src="https://img.shields.io/github/stars/TencentARC/Pixal3D.svg?style=social" alt="Stars">
     </a>
+13. [MeshGen: Generating PBR Textured Mesh with Render-Enhanced Auto-Encoder and Generative Data Augmentation](https://github.com/heheyas/MeshGen) (CVPR 2025 Highlight)
+    <a href="https://github.com/heheyas/MeshGen" title="GitHub Repo">
+      <i class="fab fa-github"></i>
+      <img src="https://img.shields.io/github/stars/heheyas/MeshGen.svg?style=social" alt="Stars">
+    </a>
 
 <a id="section-modeling-retopology-artist-mesh-generation"></a>
 ## Modeling - Re-topology / Artist Mesh Generation
@@ -252,6 +257,11 @@ Similar to the 2D Generative Model (such as Stable Diffusion, Flux) that builds 
 10. [PhysAvatar: Learning the Physics of Dressed 3D Avatars from Visual Observations](https://github.com/y-zheng18/PhysAvatar
 ) (ECCV 2024)
 11. [DSO: Aligning 3D Generators with Simulation Feedback for Physical Soundness](https://github.com/RuiningLi/dso?tab=readme-ov-file) (ICCV 2025)
+12. [ARDY: Autoregressive Diffusion with Hybrid Representation for Interactive Human Motion Generation](https://research.nvidia.com/labs/sil/projects/ardy/) (SIGGRAPH 2026)
+   <a href="https://github.com/nv-tlabs/ardy" title="GitHub Repo">
+     <i class="fab fa-github"></i>
+     <img src="https://img.shields.io/github/stars/nv-tlabs/ardy.svg?style=social" alt="Stars">
+   </a>
 
 <a id="section-acceleration-mesh-generation"></a>
 ## Acceleration For Mesh Generation (lightning vecset decoder)
