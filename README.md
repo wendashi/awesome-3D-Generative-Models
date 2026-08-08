@@ -60,6 +60,9 @@ Similar to the 2D Generative Model (such as Stable Diffusion, Flux) that builds 
 8. [Faithful Contouring](https://github.com/Luo-Yihao/FaithC) (Nov, 2025 -> CVPR'26 Oral)
 9. [FACE: A Face-based Autoregressive Representation for High-Fidelity and Efficient Mesh Generation](https://arxiv.org/abs/2603.01515) (CVPR 2026)
 
+
+<img width="2498" height="1392" alt="image" src="https://github.com/user-attachments/assets/8501ce82-a499-427c-ab37-60971e5be5d1" />
+
 <a id="section-modeling-vae-for-mesh-reconstruction"></a>
 ## Modeling - VAE For Mesh Reconstruction
 1. [Sparc3D](https://github.com/lizhihao6/Sparc3D) (Jun, 2025)
