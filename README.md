@@ -148,6 +148,12 @@ Similar to the 2D Generative Model (such as Stable Diffusion, Flux) that builds 
       <i class="fab fa-github"></i>
       <img src="https://img.shields.io/github/stars/heheyas/MeshGen.svg?style=social" alt="Stars">
     </a>
+15. [Nexus: Native Mesh Generation with Diffusion](https://s2026.conference-schedule.org/presentation/?id=papers_808&sess=sess121) (SIGGRAPH 2026)
+16. [CubePart: An Open-Vocabulary Part-Controllable 3D Generator](https://cubepart.github.io/) (SIGGRAPH 2026)
+    <a href="https://github.com/Roblox/cube/tree/main/cubepart" title="GitHub Repo">
+      <i class="fab fa-github"></i>
+      <img src="https://img.shields.io/github/stars/Roblox/cube.svg?style=social" alt="Stars">
+    </a>
 
 <a id="section-modeling-retopology-artist-mesh-generation"></a>
 ## Modeling - Re-topology / Artist Mesh Generation
@@ -171,6 +177,7 @@ Similar to the 2D Generative Model (such as Stable Diffusion, Flux) that builds 
      <i class="fab fa-github"></i> 
      <img src="https://img.shields.io/github/stars/Xrvitd/SATO.svg?style=social" alt="Stars">
    </a>
+5. [TriFlow: Generating Artist-Like 3D Mesh Topology via Nearest-Vertex Vector Fields](https://derkleineli.github.io/triflow/) (ECCV 2026)
 
 <a id="section-modeling-uv-unwrapping"></a>
 ## Modeling - UV unwrapping
@@ -221,6 +228,7 @@ Similar to the 2D Generative Model (such as Stable Diffusion, Flux) that builds 
      <img src="https://img.shields.io/github/stars/ubisoft/ubisoft-laforge-chord.svg?style=social" alt="Stars">
    </a>
 10. [LSRM: High-Fidelity Object-Centric Reconstruction via Scaled Context Windows](https://lzqsd.github.io/LSRM.github.io/)
+11. [VideoNeuMat: Neural Material Extraction from Generative Video Models](https://bowenxueai.github.io/VideoNeuMat/) (SIGGRAPH 2026)
 
    
 <a id="section-motion-rigging-articulation-dynamics-animation-simulation"></a>
@@ -270,6 +278,16 @@ Similar to the 2D Generative Model (such as Stable Diffusion, Flux) that builds 
      <i class="fab fa-github"></i>
      <img src="https://img.shields.io/github/stars/nv-tlabs/ardy.svg?style=social" alt="Stars">
    </a>
+13. [AniGen: Unified S^3 Fields for Animatable 3D Asset Generation](https://yihua7.github.io/AniGen_web/) (SIGGRAPH 2026)
+   <a href="https://github.com/Eirias/anigen" title="GitHub Repo">
+     <i class="fab fa-github"></i>
+     <img src="https://img.shields.io/github/stars/Eirias/anigen.svg?style=social" alt="Stars">
+   </a>
+14. [R-DMesh: Video-Guided 3D Animation via Rectified Dynamic Mesh Flow](https://github.com/Tencent-Hunyuan/R-DMesh) (SIGGRAPH 2026)
+   <a href="https://github.com/Tencent-Hunyuan/R-DMesh" title="GitHub Repo">
+     <i class="fab fa-github"></i>
+     <img src="https://img.shields.io/github/stars/Tencent-Hunyuan/R-DMesh.svg?style=social" alt="Stars">
+   </a>
 
 <a id="section-acceleration-mesh-generation"></a>
 ## Acceleration For Mesh Generation (lightning vecset decoder)
@@ -308,6 +326,8 @@ Similar to the 2D Generative Model (such as Stable Diffusion, Flux) that builds 
 4. https://world-grow.github.io/
 5. https://fantasy-amap.github.io/fantasy-world/
 6. https://worldgen.github.io
+7. https://github.com/quan-meng/seen2scene
+8. https://github.com/nicolasvonluetzow/gaussiangpt
 
 <a id="section-3d-scene-closed-source"></a>
 ### Closed source
