@@ -346,3 +346,8 @@ For texture
      <i class="fab fa-github"></i> 
      <img src="https://img.shields.io/github/stars/Tencent-Hunyuan/HY3D-Bench.svg?style=social" alt="Stars">
    </a>
+2. [Taxon3D](https://github.com/musharna/taxon3d) <a href="https://github.com/musharna/taxon3d" title="GitHub Repo">
+     <i class="fab fa-github"></i> 
+     <img src="https://img.shields.io/github/stars/musharna/taxon3d.svg?style=social" alt="Stars">
+   </a>
+   - live arena: https://taxon3d.org — blind pairwise human evaluation of generated 3D **organisms** (plants, fungi, animals) against CC-licensed reference photographs of the real species. Bradley–Terry with bootstrap CIs; a model without enough comparisons is reported unranked rather than given a point estimate.
