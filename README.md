@@ -149,7 +149,12 @@ Similar to the 2D Generative Model (such as Stable Diffusion, Flux) that builds 
       <img src="https://img.shields.io/github/stars/heheyas/MeshGen.svg?style=social" alt="Stars">
     </a>
 15. [Nexus: Native Mesh Generation with Diffusion](https://s2026.conference-schedule.org/presentation/?id=papers_808&sess=sess121) (SIGGRAPH 2026)
-16. [CubePart: An Open-Vocabulary Part-Controllable 3D Generator](https://cubepart.github.io/) (SIGGRAPH 2026)
+16. [Cube: A Roblox View of 3D Intelligence](https://github.com/Roblox/cube) (Mar, 2025; v0.5 Jul, 2025)
+    <a href="https://github.com/Roblox/cube" title="GitHub Repo">
+      <i class="fab fa-github"></i>
+      <img src="https://img.shields.io/github/stars/Roblox/cube.svg?style=social" alt="Stars">
+    </a>
+17. [CubePart: An Open-Vocabulary Part-Controllable 3D Generator](https://cubepart.github.io/) (SIGGRAPH 2026)
     <a href="https://github.com/Roblox/cube/tree/main/cubepart" title="GitHub Repo">
       <i class="fab fa-github"></i>
       <img src="https://img.shields.io/github/stars/Roblox/cube.svg?style=social" alt="Stars">
