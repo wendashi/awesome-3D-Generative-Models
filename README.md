@@ -333,6 +333,11 @@ Similar to the 2D Generative Model (such as Stable Diffusion, Flux) that builds 
 6. https://worldgen.github.io
 7. https://github.com/quan-meng/seen2scene
 8. https://github.com/nicolasvonluetzow/gaussiangpt
+9. [Code World Model: Coding Agent as World Brain](https://github.com/buaacyw/code-world-model) (Aug, 2026)
+   <a href="https://github.com/buaacyw/code-world-model" title="GitHub Repo">
+     <i class="fab fa-github"></i>
+     <img src="https://img.shields.io/github/stars/buaacyw/code-world-model.svg?style=social" alt="Stars">
+   </a>
 
 <a id="section-3d-scene-closed-source"></a>
 ### Closed source
