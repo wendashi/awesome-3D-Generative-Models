@@ -338,6 +338,11 @@ Similar to the 2D Generative Model (such as Stable Diffusion, Flux) that builds 
      <i class="fab fa-github"></i>
      <img src="https://img.shields.io/github/stars/buaacyw/code-world-model.svg?style=social" alt="Stars">
    </a>
+10. [Code-as-World: Agentic Discovery of Executable World Representations for Physical Reasoning](https://github.com/mirros-lab/code-as-world) (Aug, 2026)
+    <a href="https://github.com/mirros-lab/code-as-world" title="GitHub Repo">
+      <i class="fab fa-github"></i>
+      <img src="https://img.shields.io/github/stars/mirros-lab/code-as-world.svg?style=social" alt="Stars">
+    </a>
 
 <a id="section-3d-scene-closed-source"></a>
 ### Closed source
