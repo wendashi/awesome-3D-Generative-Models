@@ -31,6 +31,11 @@ Similar to the 2D Generative Model (such as Stable Diffusion, Flux) that builds 
 ## Review
 1. [Feed-Forward-3D](https://fnzhan.com/projects/Feed-Forward-3D/)
 2. [Production-Ready 3D Survey](https://github.com/hitcslj/Awesome-AIGC-3D) 
+3. [Awesome Feed-Forward 3D](https://github.com/ziplab/Awesome-Feed-Forward-3D)
+   <a href="https://github.com/ziplab/Awesome-Feed-Forward-3D" title="GitHub Repo">
+     <i class="fab fa-github"></i>
+     <img src="https://img.shields.io/github/stars/ziplab/Awesome-Feed-Forward-3D.svg?style=social" alt="Stars">
+   </a>
 
 <a id="section-modeling-3d-representation"></a>
 ## Modeling - 3D Representation
