@@ -64,6 +64,11 @@ Similar to the 2D Generative Model (such as Stable Diffusion, Flux) that builds 
 7. [(O-Voxel) TRELLIS.2](https://github.com/microsoft/TRELLIS.2/tree/main/o-voxel) (Dec, 2025 -> CVPR'26 Oral)
 8. [Faithful Contouring](https://github.com/Luo-Yihao/FaithC) (Nov, 2025 -> CVPR'26 Oral)
 9. [FACE: A Face-based Autoregressive Representation for High-Fidelity and Efficient Mesh Generation](https://arxiv.org/abs/2603.01515) (CVPR 2026)
+10. [Mesh BDF: Barycentric Dominance Field for 3D Native Mesh Generation](https://github.com/gaochao-s/MeshBDF) (Jun, 2026)
+    <a href="https://github.com/gaochao-s/MeshBDF" title="GitHub Repo">
+      <i class="fab fa-github"></i>
+      <img src="https://img.shields.io/github/stars/gaochao-s/MeshBDF.svg?style=social" alt="Stars">
+    </a>
 
 
 <img width="2498" height="1392" alt="image" src="https://github.com/user-attachments/assets/8501ce82-a499-427c-ab37-60971e5be5d1" />
@@ -164,6 +169,11 @@ Similar to the 2D Generative Model (such as Stable Diffusion, Flux) that builds 
       <i class="fab fa-github"></i>
       <img src="https://img.shields.io/github/stars/Roblox/cube.svg?style=social" alt="Stars">
     </a>
+18. [Arbor: Explicit Geometric Conditioning for Controllable 3D Asset Generation](https://github.com/Stability-AI/arbor) (Jun, 2026)
+    <a href="https://github.com/Stability-AI/arbor" title="GitHub Repo">
+      <i class="fab fa-github"></i>
+      <img src="https://img.shields.io/github/stars/Stability-AI/arbor.svg?style=social" alt="Stars">
+    </a>
 
 <a id="section-modeling-retopology-artist-mesh-generation"></a>
 ## Modeling - Re-topology / Artist Mesh Generation
@@ -239,6 +249,11 @@ Similar to the 2D Generative Model (such as Stable Diffusion, Flux) that builds 
    </a>
 10. [LSRM: High-Fidelity Object-Centric Reconstruction via Scaled Context Windows](https://lzqsd.github.io/LSRM.github.io/)
 11. [VideoNeuMat: Neural Material Extraction from Generative Video Models](https://bowenxueai.github.io/VideoNeuMat/) (SIGGRAPH 2026)
+12. [HKTex: Generating UV-Free Textures for 3D Meshes with Multiscale Heat Kernels](https://circle-group.github.io/research/HeatKernelTextures/) (ECCV 2026 best🥇, Long Oral)
+    <a href="https://github.com/circle-group/hktex" title="GitHub Repo">
+      <i class="fab fa-github"></i>
+      <img src="https://img.shields.io/github/stars/circle-group/hktex.svg?style=social" alt="Stars">
+    </a>
 
    
 <a id="section-motion-rigging-articulation-dynamics-animation-simulation"></a>
@@ -347,6 +362,11 @@ Similar to the 2D Generative Model (such as Stable Diffusion, Flux) that builds 
     <a href="https://github.com/mirros-lab/code-as-world" title="GitHub Repo">
       <i class="fab fa-github"></i>
       <img src="https://img.shields.io/github/stars/mirros-lab/code-as-world.svg?style=social" alt="Stars">
+    </a>
+11. [Dream-Cubed: Controllable Generative Modeling in Minecraft](https://github.com/spatial-intelligence-ai/dream-cubed) (Apr, 2026)
+    <a href="https://github.com/spatial-intelligence-ai/dream-cubed" title="GitHub Repo">
+      <i class="fab fa-github"></i>
+      <img src="https://img.shields.io/github/stars/spatial-intelligence-ai/dream-cubed.svg?style=social" alt="Stars">
     </a>
 
 <a id="section-3d-scene-closed-source"></a>
