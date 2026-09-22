@@ -406,12 +406,10 @@ For texture
      <i class="fab fa-github"></i> 
      <img src="https://img.shields.io/github/stars/Tencent-Hunyuan/HY3D-Bench.svg?style=social" alt="Stars">
    </a>
-
-2.[Meshy-Bench](https://github.com/meshy-dev/meshybench) <a href="https://github.com/meshy-dev/meshybench" title="GitHub Repo">
+2. [Meshy-Bench](https://github.com/meshy-dev/meshybench) <a href="https://github.com/meshy-dev/meshybench" title="GitHub Repo">
      <i class="fab fa-github"></i> 
      <img src="https://img.shields.io/github/stars/meshy-dev/meshybench.svg?style=social" alt="Stars">
    </a>
-
 3. [Taxon3D](https://github.com/musharna/taxon3d) <a href="https://github.com/musharna/taxon3d" title="GitHub Repo">
      <i class="fab fa-github"></i> 
      <img src="https://img.shields.io/github/stars/musharna/taxon3d.svg?style=social" alt="Stars">
