@@ -174,6 +174,16 @@ Similar to the 2D Generative Model (such as Stable Diffusion, Flux) that builds 
       <i class="fab fa-github"></i>
       <img src="https://img.shields.io/github/stars/Stability-AI/arbor.svg?style=social" alt="Stars">
     </a>
+19. [PartLLM: A Unified Multimodal Foundation for 3D Part Segmentation](https://github.com/czvvd/PartLLM) (SIGGRAPH Asia 2026, TOG)
+    <a href="https://github.com/czvvd/PartLLM" title="GitHub Repo">
+      <i class="fab fa-github"></i>
+      <img src="https://img.shields.io/github/stars/czvvd/PartLLM.svg?style=social" alt="Stars">
+    </a>
+20. [SAM3D-Part: Interactive Part Selection and Generation from 3D Objects](https://github.com/Jiahao620/sam3d-part) (SIGGRAPH Asia 2026)
+    <a href="https://github.com/Jiahao620/sam3d-part" title="GitHub Repo">
+      <i class="fab fa-github"></i>
+      <img src="https://img.shields.io/github/stars/Jiahao620/sam3d-part.svg?style=social" alt="Stars">
+    </a>
 
 <a id="section-modeling-retopology-artist-mesh-generation"></a>
 ## Modeling - Re-topology / Artist Mesh Generation
@@ -253,6 +263,11 @@ Similar to the 2D Generative Model (such as Stable Diffusion, Flux) that builds 
     <a href="https://github.com/circle-group/hktex" title="GitHub Repo">
       <i class="fab fa-github"></i>
       <img src="https://img.shields.io/github/stars/circle-group/hktex.svg?style=social" alt="Stars">
+    </a>
+13. [UltraTex: Unleashing 2K Multi-View Diffusion for 3D Texturing](https://github.com/yiboz2001/UltraTex) (SIGGRAPH Asia 2026)
+    <a href="https://github.com/yiboz2001/UltraTex" title="GitHub Repo">
+      <i class="fab fa-github"></i>
+      <img src="https://img.shields.io/github/stars/yiboz2001/UltraTex.svg?style=social" alt="Stars">
     </a>
 
    
