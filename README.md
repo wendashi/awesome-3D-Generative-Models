@@ -208,6 +208,17 @@ Similar to the 2D Generative Model (such as Stable Diffusion, Flux) that builds 
      <img src="https://img.shields.io/github/stars/Xrvitd/SATO.svg?style=social" alt="Stars">
    </a>
 5. [TriFlow: Generating Artist-Like 3D Mesh Topology via Nearest-Vertex Vector Fields](https://derkleineli.github.io/triflow/) (ECCV 2026)
+   <a href="https://github.com/DerKleineLi/triflow" title="GitHub Repo">
+     <i class="fab fa-github"></i>
+     <img src="https://img.shields.io/github/stars/DerKleineLi/triflow.svg?style=social" alt="Stars">
+   </a>
+6. [MeshOctave: Vertex Split-and-Rewire Cascades for Native Mesh Generation](https://maymhappy.github.io/MeshOctave/) (2026)
+   <a href="https://github.com/MayMhappy/MeshOctave" title="GitHub Repo">
+     <i class="fab fa-github"></i>
+     <img src="https://img.shields.io/github/stars/MayMhappy/MeshOctave.svg?style=social" alt="Stars">
+   </a>
+7. [TaoFlowForge: Progressive Native Mesh Generation via Cascaded Flow Matching](https://arxiv.org/abs/2609.37139) (2026)
+
 
 <a id="section-modeling-uv-unwrapping"></a>
 ## Modeling - UV unwrapping
