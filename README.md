@@ -184,6 +184,11 @@ Similar to the 2D Generative Model (such as Stable Diffusion, Flux) that builds 
       <i class="fab fa-github"></i>
       <img src="https://img.shields.io/github/stars/Jiahao620/sam3d-part.svg?style=social" alt="Stars">
     </a>
+21. [GENA3D: Generative Amodal 3D Modeling by Bridging 2D Priors and 3D Coherence](https://colezwhy.github.io/gena3d/) (ECCV 2026)
+    <a href="https://github.com/Colezwhy/GENAmodal3D" title="GitHub Repo">
+      <i class="fab fa-github"></i>
+      <img src="https://img.shields.io/github/stars/Colezwhy/GENAmodal3D.svg?style=social" alt="Stars">
+    </a>
 
 <a id="section-modeling-retopology-artist-mesh-generation"></a>
 ## Modeling - Re-topology / Artist Mesh Generation
@@ -279,6 +284,11 @@ Similar to the 2D Generative Model (such as Stable Diffusion, Flux) that builds 
     <a href="https://github.com/yiboz2001/UltraTex" title="GitHub Repo">
       <i class="fab fa-github"></i>
       <img src="https://img.shields.io/github/stars/yiboz2001/UltraTex.svg?style=social" alt="Stars">
+    </a>
+14. [SceneHI: High-Resolution 3D-Consistent Scene Texturing with Controllable Illumination](https://github.com/Thanos-DB/SceneHI) (ECCV 2026)
+    <a href="https://github.com/Thanos-DB/SceneHI" title="GitHub Repo">
+      <i class="fab fa-github"></i>
+      <img src="https://img.shields.io/github/stars/Thanos-DB/SceneHI.svg?style=social" alt="Stars">
     </a>
 
    
