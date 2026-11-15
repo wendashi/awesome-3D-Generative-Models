@@ -90,6 +90,11 @@ Similar to the 2D Generative Model (such as Stable Diffusion, Flux) that builds 
      <i class="fab fa-github"></i> 
      <img src="https://img.shields.io/github/stars/Seed3D/Dora.svg?style=social" alt="Stars">
    </a>
+4. [GenSfM: Generative Structure from Motion with Native 3D Diffusion](https://github.com/dotb1ue/GenSfm) (NeurIPS 2026)
+   <a href="https://github.com/dotb1ue/GenSfm" title="GitHub Repo">
+     <i class="fab fa-github"></i>
+     <img src="https://img.shields.io/github/stars/dotb1ue/GenSfm.svg?style=social" alt="Stars">
+   </a>
 
 <a id="section-modeling-texture-flow-matching-dit"></a>
 ## Modeling / Texture - Flow-matching DiT For Mesh Generation & Texture Generation
@@ -188,6 +193,15 @@ Similar to the 2D Generative Model (such as Stable Diffusion, Flux) that builds 
     <a href="https://github.com/Colezwhy/GENAmodal3D" title="GitHub Repo">
       <i class="fab fa-github"></i>
       <img src="https://img.shields.io/github/stars/Colezwhy/GENAmodal3D.svg?style=social" alt="Stars">
+    </a>
+22. [MegaParts: Scaling Part-Aware 3D Object Generation to 300 Parts via Token-Efficient Autoregressive Modeling](https://expmaster.github.io/megaparts_webpage/) (SIGGRAPH Asia 2026)
+    <a href="https://github.com/InternRobotics/MeshCoder" title="GitHub Repo">
+      <i class="fab fa-github"></i>
+      <img src="https://img.shields.io/github/stars/InternRobotics/MeshCoder.svg?style=social" alt="Stars">
+    </a>
+23. [SymTRELLIS: Symmetry-Enforced Voxel Latents for 3D Generation](https://symtrellis.github.io/) (SIGGRAPH Asia 2026)
+    <a href="https://huggingface.co/symtrellis/SymTRELLIS" title="Model Repo">
+      <img src="https://img.shields.io/badge/%F0%9F%A4%97-Models-yellow" alt="Models">
     </a>
 
 <a id="section-modeling-retopology-artist-mesh-generation"></a>
@@ -290,6 +304,7 @@ Similar to the 2D Generative Model (such as Stable Diffusion, Flux) that builds 
       <i class="fab fa-github"></i>
       <img src="https://img.shields.io/github/stars/Thanos-DB/SceneHI.svg?style=social" alt="Stars">
     </a>
+15. [DirectUV: Image-Conditioned UV Texture Generation with Surface-Aware Positional Encoding](https://arxiv.org/abs/2609.34651) (NeurIPS 2026)
 
    
 <a id="section-motion-rigging-articulation-dynamics-animation-simulation"></a>
